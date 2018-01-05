@@ -93,7 +93,7 @@
             "weekday": 3,
             "start-hour": 10,
             "start-minute": 30,
-            "end-hour": 13,
+            "end-hour": 12,
             "end-minute": 30
         },
         {
@@ -121,7 +121,7 @@
             "weekday": 4,
             "start-hour": 10,
             "start-minute": 30,
-            "end-hour": 14,
+            "end-hour": 12,
             "end-minute": 30
         },
         {
@@ -149,7 +149,7 @@
             "weekday": 5,
             "start-hour": 10,
             "start-minute": 30,
-            "end-hour": 15,
+            "end-hour": 12,
             "end-minute": 30
         },
         {
@@ -177,7 +177,7 @@
             "weekday": 6,
             "start-hour": 10,
             "start-minute": 30,
-            "end-hour": 16,
+            "end-hour": 12,
             "end-minute": 30
         },
         {
