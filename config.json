@@ -3,7 +3,6 @@
     "selfcontrol-path": "/Applications/SelfControl.app",
     "host-blacklist": [
         "facebook.com",
-        "inbox.google.com",
         "amazon.com",
         "tumblr.com",
         "youtube.com",
