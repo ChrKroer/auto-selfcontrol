@@ -29,199 +29,21 @@
     ],
     "block-schedules":[
         {
-            "weekday": 1,
             "start-hour": 7,
             "start-minute": 0,
             "end-hour": 10,
             "end-minute": 0
         },
         {
-            "weekday": 1,
-            "start-hour": 10,
-            "start-minute": 30,
-            "end-hour": 12,
-            "end-minute": 30
-        },
-        {
-            "weekday": 1,
-            "start-hour": 13,
-            "start-minute": 30,
-            "end-hour": 16,
-            "end-minute": 20
-        },
-        {
-            "weekday": 1,
-            "start-hour": 19,
-            "start-minute": 30,
-            "end-hour": 23,
-            "end-minute": 20
-        },
-        {
-            "weekday": 2,
-            "start-hour": 7,
+            "start-hour": 11,
             "start-minute": 0,
-            "end-hour": 10,
+            "end-hour": 13,
             "end-minute": 0
         },
         {
-            "weekday": 2,
-            "start-hour": 10,
-            "start-minute": 30,
-            "end-hour": 12,
-            "end-minute": 30
-        },
-        {
-            "weekday": 2,
-            "start-hour": 13,
-            "start-minute": 30,
-            "end-hour": 16,
-            "end-minute": 20
-        },
-        {
-            "weekday": 2,
-            "start-hour": 19,
-            "start-minute": 30,
-            "end-hour": 23,
-            "end-minute": 20
-        },
-        {
-            "weekday": 3,
-            "start-hour": 7,
+            "start-hour": 14,
             "start-minute": 0,
-            "end-hour": 10,
-            "end-minute": 0
-        },
-        {
-            "weekday": 3,
-            "start-hour": 10,
-            "start-minute": 30,
-            "end-hour": 12,
-            "end-minute": 30
-        },
-        {
-            "weekday": 3,
-            "start-hour": 13,
-            "start-minute": 30,
             "end-hour": 16,
-            "end-minute": 20
-        },
-        {
-            "weekday": 3,
-            "start-hour": 19,
-            "start-minute": 30,
-            "end-hour": 23,
-            "end-minute": 20
-        },
-        {
-            "weekday": 4,
-            "start-hour": 7,
-            "start-minute": 0,
-            "end-hour": 10,
-            "end-minute": 0
-        },
-        {
-            "weekday": 4,
-            "start-hour": 10,
-            "start-minute": 30,
-            "end-hour": 12,
-            "end-minute": 30
-        },
-        {
-            "weekday": 4,
-            "start-hour": 13,
-            "start-minute": 30,
-            "end-hour": 16,
-            "end-minute": 20
-        },
-        {
-            "weekday": 4,
-            "start-hour": 19,
-            "start-minute": 30,
-            "end-hour": 23,
-            "end-minute": 20
-        },
-        {
-            "weekday": 5,
-            "start-hour": 7,
-            "start-minute": 0,
-            "end-hour": 10,
-            "end-minute": 0
-        },
-        {
-            "weekday": 5,
-            "start-hour": 10,
-            "start-minute": 30,
-            "end-hour": 12,
-            "end-minute": 30
-        },
-        {
-            "weekday": 5,
-            "start-hour": 13,
-            "start-minute": 30,
-            "end-hour": 16,
-            "end-minute": 20
-        },
-        {
-            "weekday": 5,
-            "start-hour": 19,
-            "start-minute": 30,
-            "end-hour": 23,
-            "end-minute": 20
-        },
-        {
-            "weekday": 6,
-            "start-hour": 7,
-            "start-minute": 0,
-            "end-hour": 10,
-            "end-minute": 0
-        },
-        {
-            "weekday": 6,
-            "start-hour": 10,
-            "start-minute": 30,
-            "end-hour": 12,
-            "end-minute": 30
-        },
-        {
-            "weekday": 6,
-            "start-hour": 13,
-            "start-minute": 30,
-            "end-hour": 16,
-            "end-minute": 20
-        },
-        {
-            "weekday": 6,
-            "start-hour": 19,
-            "start-minute": 30,
-            "end-hour": 23,
-            "end-minute": 20
-        },
-        {
-            "weekday": 7,
-            "start-hour": 7,
-            "start-minute": 0,
-            "end-hour": 10,
-            "end-minute": 0
-        },
-        {
-            "weekday": 7,
-            "start-hour": 10,
-            "start-minute": 30,
-            "end-hour": 12,
-            "end-minute": 30
-        },
-        {
-            "weekday": 7,
-            "start-hour": 13,
-            "start-minute": 30,
-            "end-hour": 16,
-            "end-minute": 20
-        },
-        {
-            "weekday": 7,
-            "start-hour": 19,
-            "start-minute": 30,
-            "end-hour": 23,
             "end-minute": 20
         }
     ]
